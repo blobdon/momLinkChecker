@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>{{.Title}}</title>
+</head>
+
+<body>
+    <div class="">
+        <h1>ICCG MoM Bad Links Log - {{.Timestamp}}</h1>
+        <p>
+            Total links found and checked: {{.TotalLinks}}<br>
+            Total bad links:
+            <font color="{{if gt .TotalBadLinks 0}}red{{end}}">{{.TotalBadLinks}}</font>
+            <br>
+            Percent bad links: {{ .PercentBadLinks }} %
+        </p>
+    </div>
+    <div class="">
+        {{ range .Pways}}
+          {{ if gt .BadLinks 0 }}
+            <div class="">
+              <h2><a href="{{.URL}}">{{.Name}}</a></h2>
+              <span>Total Links: {{ len .LinksOut }} Bad Links: {{ .BadLinks }} Modified Links: {{ .ModifiedLinks }}</span><br>
+              <br>
+              {{ range .LinksOut }}
+                {{ if ne .StatusCode 200 }}
+                <div style="padding-left:20px">
+                  <span><strong>Node {{ .NodeID }} - {{ .NodeTitle }}</strong></span><br>
+                  <span><a href="{{ .URL }}">Offending Link</a></span><br>
+                  <span>Status: {{.Status}}</span><br>
+                  <br>
+                </div>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ end }}
+        {{ end }}
+        </ul>
+    </div>
+
+</body>
+
+</html>

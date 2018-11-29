@@ -1,0 +1,1380 @@
+ICCG MoM Bad Links Log - Mon Sep 5, 2016 at 18:00
+Total links found and checked: 1338
+Total bad links: 163
+Percent bad links: %12
+=========================
+Pway: A-Z of Local Pathways ICCG
+(Total Links: 3, Bad Links: 1)
+    Node #161. Useful Secondary Care Contacts for GPs
+     Link: https://nww.whittington.nhs.uk/default.asp?c=789
+     Status: Head https://nww.whittington.nhs.uk/default.asp?c=789: dial tcp: lookup nww.whittington.nhs.uk: no such host
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Acute Asthma Attack - Management for Known Asthmatic Children (5-18 years old) ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Acute Wheezy Episode - Management for Children (2-5 years old) ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Adult Community Services ICCG
+(Total Links: 21, Bad Links: 6)
+    Node #26. Adult Social Service Access Team
+     Link: http://www.islington.gov.uk/services/social-care-health/gettingstarted/Pages/default.aspx?extra=7
+     Status: 500 Server ErrorMessage
+    Node #105. Islington GP Hubs (iHUB) PILOT
+     Link: http://islingtongp.nhs.uk/
+     Status: Head http://islingtongp.nhs.uk/: dial tcp 54.154.82.69:80: i/o timeout
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #61. Links for Living
+     Link: http://linksforliving.islington.gov.uk/kb5/islington/asch/home.page
+     Status: 404 Not Found
+    Node #83. Seasonal Health Interventions Network (SHINE)
+     Link: http://www.islington.gov.uk/services/parks-environment/sustainability/energy-services/Pages/shine.aspx
+     Status: 500 Server ErrorMessage
+    Node #83. Seasonal Health Interventions Network (SHINE)
+     Link: http://www.islington.gov.uk/Online_Survey/shine-referral-questionnaire.asp
+     Status: 404 Not Found
+    Node #83. Seasonal Health Interventions Network (SHINE)
+     Link: http://www.islington.gov.uk/services/parks-environment/sustainability/energy-services/Pages/affordable_warmth.aspx
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Adult Safeguarding Pathway ICCG
+(Total Links: 6, Bad Links: 1)
+    Node #17. Resources
+     Link: http://www.islington.gov.uk/services/social-care-health/adultprotection/Pages/about_safeguarding_adults.aspx
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Adult Sepsis Screening Tool ICCG
+(Total Links: 1, Bad Links: 1)
+    Node #1. Sepsis - Scope of this tool
+     Link: http://sepsistrust.org/info-for-professionals/clinical-toolkits/
+     Status: 404 Not Found
+-------------------------
+Pway: Adult Weight Management Pathway With Co-Morbidity ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Adult Weight Management Pathway Without Co-morbidity ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: AECOPD Referral Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Alcohol Screening and Services ICCG
+(Total Links: 61, Bad Links: 3)
+    Node #61. Tools, References Safe Limits, Binge Drinking, Alcohol Units, Drink Diary, Pregnancy, Driving
+     Link: http://localise.mapofmedicine.com/mom/preview/page.html
+     Status: 404 Not Found
+    Node #61. Tools, References Safe Limits, Binge Drinking, Alcohol Units, Drink Diary, Pregnancy, Driving
+     Link: http://www.nhs.uk/livewell/alcohol/documents/drink_diary.pdf
+     Status: 403 Forbidden
+    Node #51. Aged 8 to 18 Islington Young People's Drug & Alcohol Service (IYPDAS)
+     Link: http://www.islington.gov.uk/publicrecords/library/Community-safety-and-emergencies/Information/Leaflets/2012-2013/(2012-12-07)-IYPDAS-Leaflet-Dec11.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Allergies in Children Pathway ICCG
+(Total Links: 14, Bad Links: 2)
+    Node #25. Anti-histamine
+     Link: http://www.evidence.nhs.uk/formulary/bnfc/current/3-respiratory-system/34-antihistamines-immunotherapy-and-allergic-emergencies/341-antihistamines/sedating-antihistamines/chlorphenamine-maleate?q=CHLORPHENAMINE MALEATE
+     Status: 400 BAD_REQUEST
+    Node #26. Adrenaline auto-injector
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/3-respiratory-system/34-antihistamines-immunotherapy-and-allergic-emergencies/343-allergic-emergencies/anaphylaxis/adrenalineepinephrine/intramuscular-injection-for-self-administration/epipen
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/3-respiratory-system/34-antihistamines-immunotherapy-and-allergic-emergencies/343-allergic-emergencies/anaphylaxis/adrenalineepinephrine/intramuscular-injection-for-self-administration/epipen: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Ambulatory Care Pathway - UCLH ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Ambulatory Care Pathway - Whittington Health ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Ambulatory Care Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Antenatal and Postnatal Pathway ICCG
+(Total Links: 40, Bad Links: 5)
+    Node #45. Useful Contact Numbers
+     Link: https://www.royalfree.nhs.uk/services/services-a-z/maternity-services/maternity-care-at-the-royal-free-hospital/
+     Status: 404 Not Found
+    Node #7. Refer using NHS e-Referral Service or direct patient to self-refer to ANC
+     Link: https://www.royalfree.nhs.uk/services/services-a-z/maternity-services/self-referral-form/
+     Status: 404 Not Found
+    Node #35. Patient Self-Referrals to ANC
+     Link: https://www.royalfree.nhs.uk/services/services-a-z/maternity-services/maternity-care-at-the-royal-free-hospital/self-referral-form/
+     Status: 404 Not Found
+    Node #42. Health Visiting
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=zh26LakcS6w
+     Status: 404 Not Found
+    Node #42. Health Visiting
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=zh26LakcS6w
+     Status: 404 Not Found
+-------------------------
+Pway: Cancer Referrals ICCG
+(Total Links: 4, Bad Links: 0)
+-------------------------
+Pway: Central Islington District Nurses Team ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Child Protection Referral Pathway ICCG
+(Total Links: 13, Bad Links: 1)
+    Node #26. Islington Child Safeguarding Contact Details
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=fbjUhz3yQ0Y
+     Status: 404 Not Found
+-------------------------
+Pway: Child Weight Management
+(Total Links: 5, Bad Links: 1)
+    Node #31. MAINTENANCE
+     Link: http://www.islington.gov.uk/services/children-families/cs-things-to-do/Pages/default.aspx
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Children with suspected epilepsy ICCG
+(Total Links: 2, Bad Links: 1)
+    Node #4. Management
+     Link: http://www.nice.org.uk/nicemedia/live/13635/57779/57779.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Children's Nurses in Primary Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Childrens Centres ICCG
+(Total Links: 2, Bad Links: 1)
+    Node #7. Where are they?
+     Link: http://www.islington.gov.uk/services/children-families/familyinformationservice/childrenscentres/centres_islington/Pages/default.aspx?extra=10
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Chronic obstructive pulmonary disease (COPD)
+(Total Links: 6, Bad Links: 0)
+-------------------------
+Pway: Chronic Pelvic Pain (over 6 months) ICCG
+(Total Links: 12, Bad Links: 5)
+    Node #12. Hormonal
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #12. Hormonal
+     Link: http://www.fsrh.org/pdfs/archive/ContraceptionProductLicence.pdf
+     Status: 404 Not Found
+    Node #13. Pain Relief
+     Link: http://evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/ibuprofen?q=IBUPROFEN
+     Status: Head http://evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/ibuprofen?q=IBUPROFEN: dial tcp: lookup evidence.nhs.uk: no such host
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Pain Relief
+     Link: http://evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/naproxen?q=NAPROXEN
+     Status: Head http://evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/naproxen?q=NAPROXEN: dial tcp: lookup evidence.nhs.uk: no such host
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Pain Relief
+     Link: http://evidence.nhs.uk/formulary/bnf/current/4-central-nervous-system/47-analgesics/471-non-opioid-analgesics-and-compound-analgesic-preparations/paracetamol?q=PARACETAMOL
+     Status: Head http://evidence.nhs.uk/formulary/bnf/current/4-central-nervous-system/47-analgesics/471-non-opioid-analgesics-and-compound-analgesic-preparations/paracetamol?q=PARACETAMOL: dial tcp: lookup evidence.nhs.uk: no such host
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Clinical Leads ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Community Mental Health Services ICCG
+(Total Links: 10, Bad Links: 3)
+    Node #33. Camden and Islington NHS Foundation Trust Structure Chart
+     Link: http://www.candi.nhs.uk/_uploads/documents/c-i-guide-for-referrers-oct-2013.pdf
+     Status: 404 Not Found
+    Node #4. Assessment & Advice Team
+     Link: http://www.candi.nhs.uk/gp
+     Status: 404 Not Found
+    Node #28. Highbury Grove Crisis Centre (DIRECT REFERRALS)
+     Link: http://www.onehousinggroup.co.uk/one-support/service-directory/islington-crisis-service
+     Status: 403 Forbidden
+-------------------------
+Pway: Community Pharmacy ICCG
+(Total Links: 7, Bad Links: 1)
+    Node #24. Healthy Living Pharmacies
+     Link: http://www.npa.co.uk/Documents/HLP/HLP_GP_briefing_Sept12.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Constipation in children and young people ICCG
+(Total Links: 4, Bad Links: 4)
+    Node #16. Top tips for managing constipation in Primary care
+     Link: http://www.nice.org.uk/nicemedia/live/12993/48754/48754.pdf
+     Status: 404 Not Found
+    Node #17. Laxatives: recommended doses
+     Link: http://www.nice.org.uk/nicemedia/live/12993/48754/48754.pdf
+     Status: 404 Not Found
+    Node #18. Link to NICE Guidelines
+     Link: http://www.nice.org.uk/nicemedia/live/12993/48754/48754.pdf
+     Status: 404 Not Found
+    Node #2. Are there any urgent conditions or red flags?
+     Link: http://www.nice.org.uk/nicemedia/live/12183/44914/44914.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Coordinate My Care ICCG
+(Total Links: 6, Bad Links: 1)
+    Node #15. Smart Card Login
+     Link: https://nww.coordinatemycare.net/csp/healthshare/hscc/compat/login.html
+     Status: Head https://nww.coordinatemycare.net/csp/healthshare/hscc/compat/login.html: dial tcp 10.39.208.6:443: i/o timeout
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: COPD Management ICCG
+(Total Links: 24, Bad Links: 0)
+-------------------------
+Pway: COPD Service Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Dental Infections ICCG
+(Total Links: 13, Bad Links: 0)
+-------------------------
+Pway: Diabetes Service Page ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Diagnosing COPD ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: District Nurse Twilight and Night Teams ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: District Nursing Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Do Not Attempt CPR (DNACPR) Decisions ICCG
+(Total Links: 4, Bad Links: 0)
+-------------------------
+Pway: Domestic Violence and Abuse ICCG
+(Total Links: 15, Bad Links: 2)
+    Node #26. Further information and Resources
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/family_results.page?category=1-6&sortfield=title&sorttype=field&utm_content=google|organic&utm_term=(not provided)&sr=0&nh=10
+     Status: 400 Bad Request
+    Node #32. IRIS will direct to specialist service: Examples of services for Male Victims/Perpetrators
+     Link: http://www.dvip.org/mens-services#violence_prevention
+     Status: 404 Not Found
+-------------------------
+Pway: Drug Supply Issues ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Drugs Misuse ICCG
+(Total Links: 6, Bad Links: 3)
+    Node #65. Detox Services
+     Link: http://www.cranstoun.org/services/cranstoun-city-roads.aspx
+     Status: 404 Not Found
+    Node #63. Aged 8 to 18 Islington Young People's Drug & Alcohol Service (IYPDAS)
+     Link: http://www.islington.gov.uk/publicrecords/library/Community-safety-and-emergencies/Information/Leaflets/2012-2013/(2012-12-07)-IYPDAS-Leaflet-Dec11.pdf
+     Status: 404 Not Found
+    Node #63. Aged 8 to 18 Islington Young People's Drug & Alcohol Service (IYPDAS)
+     Link: http://www.islington.gov.uk/publicrecords/library/Community-safety-and-emergencies/Information/Forms/2012-2013/(2012-12-07)-IYPDAS-Screening-Referral-Form.doc1.doc
+     Status: 404 Not Found
+-------------------------
+Pway: Ebola Virus Disease ICCG
+(Total Links: 5, Bad Links: 0)
+-------------------------
+Pway: Electronic Prescription Service (EPS) ICCG
+(Total Links: 7, Bad Links: 1)
+    Node #3. Online Prescription Tracker
+     Link: https://portal2.national.ncrs.nhs.uk/prescriptionsadmin
+     Status: Head https://portal2.national.ncrs.nhs.uk/prescriptionsadmin: dial tcp 92.242.132.16:443: getsockopt: connection refused
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Emergency Contraception ICCG
+(Total Links: 3, Bad Links: 1)
+    Node #2. Emergency Contraception (EC)
+     Link: http://www.fsrh.org/pdfs/CEUguidanceEmergencyContraception11.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Employment Support and Welfare Rights ICCG
+(Total Links: 10, Bad Links: 3)
+    Node #1. General Employment Support iWork Service
+     Link: http://www.islington.gov.uk/advice/employment/Pages/findingjob.aspx
+     Status: 404 Page not found
+    Node #2. Islington Citizen Advice Bureau (CAB)
+     Link: http://www.islington.gov.uk/advice/Pages/citizens-advice.aspx
+     Status: 404 Page not found
+    Node #23. Income Maximisation Team (IMAX)
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=LR58uC_VHCU
+     Status: 404 Not Found
+-------------------------
+Pway: Eye Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Fatty Liver ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Female Urinary Incontinence ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Gastro-intestinal Tract Infections ICCG
+(Total Links: 26, Bad Links: 24)
+    Node #77. Gastro-intestinal tract infections
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #78. Eradication of Helicobacter pylori
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/helicobacter-pylori-infection/recommended-regimens-for-helicobacter-pylori-eradication-in-adults
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/helicobacter-pylori-infection/recommended-regimens-for-helicobacter-pylori-eradication-in-adults: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #79. Gastroenteritis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #79. Gastroenteritis
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #80. Clostridium difficile
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #80. Clostridium difficile
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5111-metronidazole/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5111-metronidazole/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #80. Clostridium difficile
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/glycopeptides/vancomycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/glycopeptides/vancomycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #80. Clostridium difficile
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/vancomycin-and-teicoplanin/vancomycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/vancomycin-and-teicoplanin/vancomycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #80. Clostridium difficile
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/fidaxomicin/fidaxomicin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/517-some-other-antibacterials/fidaxomicin/fidaxomicin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #81. Traveller's diarrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin?q=CIPROFLOXACIN
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin?q=CIPROFLOXACIN: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #81. Traveller's diarrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #86. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #86. Notifiable Diseases
+     Link: https://www.hpa.org.uk/Topics/InfectiousDiseases/InfectionsAZ/NotificationsOfInfectiousDiseases/ListOfNotifiableDiseases/
+     Status: Head https://www.hpa.org.uk/Topics/InfectiousDiseases/InfectionsAZ/NotificationsOfInfectiousDiseases/ListOfNotifiableDiseases/: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.hpa.org.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #83. First Line
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #83. First Line
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #83. First Line
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #83. First Line
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #84. Penicillin Allergy and previous treatment with Metronidazole or Clarithromycin
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #84. Penicillin Allergy and previous treatment with Metronidazole or Clarithromycin
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/133-chelates-and-complexes/tripotassium-dicitratobismuthate
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/133-chelates-and-complexes/tripotassium-dicitratobismuthate: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #84. Penicillin Allergy and previous treatment with Metronidazole or Clarithromycin
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #84. Penicillin Allergy and previous treatment with Metronidazole or Clarithromycin
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/tetracycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/tetracycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #82. Symptomatic relapse
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/1-gastro-intestinal-system/13-antisecretory-drugs-and-mucosal-protectants/135-proton-pump-inhibitors: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #82. Symptomatic relapse
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #82. Symptomatic relapse
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/levofloxacin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/levofloxacin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Gastroesophageal reflux (GOR) in infants up to 6 months ICCG
+(Total Links: 2, Bad Links: 0)
+-------------------------
+Pway: Genital Tract Infections ICCG
+(Total Links: 32, Bad Links: 10)
+    Node #26. Genital tract infections
+     Link: http://www.bashh.org/
+     Status: Head http://www.bashh.org/AsiCommon/Controls/Shared/FormsAuthentication/Login.aspx?ReturnUrl=%2fAsiCommon%2fControls%2fShared%2fFormsAuthentication%2fLogin.aspx%3fReturnUrl%3d%252fAsiCommon%252fControls%252fShared%252fFormsAuthentication%252fLogin.aspx%253fReturnUrl%253d%25252fAsiCommon%25252fControls%25252fShared%25252fFormsAuthentication%25252fLogin.aspx%25253fReturnUrl%25253d%2525252fAsiCommon%2525252fControls%2525252fShared%2525252fFormsAuthentication%2525252fLogin.aspx%2525253fReturnUrl%2525253d%252525252fAsiCommon%252525252fControls%252525252fShared%252525252fFormsAuthentication%252525252fLogin.aspx%252525253fReturnUrl%252525253d%25252525252fAsiCommon%25252525252fControls%25252525252fShared%25252525252fFormsAuthentication%25252525252fLogin.aspx%25252525253fReturnUrl%25252525253d%2525252525252fAsiCommon%2525252525252fControls%2525252525252fShared%2525252525252fFormsAuthentication%2525252525252fLogin.aspx%2525252525253fReturnUrl%2525252525253d%252525252525252fAsiCommon%252525252525252fControls%252525252525252fShared%252525252525252fFormsAuthentication%252525252525252fLogin.aspx%252525252525253fReturnUrl%252525252525253d%25252525252525252fAsiCommon%25252525252525252fControls%25252525252525252fShared%25252525252525252fFormsAuthentication%25252525252525252fLogin.aspx%25252525252525253fReturnUrl%25252525252525253d%2525252525252525252f: stopped after 10 redirects
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #17. Vaginal Candidiasis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/52-antifungal-drugs/521-triazole-antifungals/fluconazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/52-antifungal-drugs/521-triazole-antifungals/fluconazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #17. Vaginal Candidiasis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/fungal-infections#PHP4824
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/fungal-infections#PHP4824: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #18. Bacterial Vaginosis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5111-metronidazole-and-tinidazole/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #18. Bacterial Vaginosis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/other-infections/preparations-for-other-vaginal-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/other-infections/preparations-for-other-vaginal-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #18. Bacterial Vaginosis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/other-infections/preparations-for-other-vaginal-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/72-treatment-of-vaginal-and-vulval-conditions/722-vaginal-and-vulval-infections/other-infections/preparations-for-other-vaginal-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #20. Trichomoniasis
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/54-antiprotozoal-drugs/542-amoebicides/metronidazole
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/54-antiprotozoal-drugs/542-amoebicides/metronidazole: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #24. Gonorrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/ceftriaxone
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/ceftriaxone: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #24. Gonorrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #14. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Governing Body ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Growing Together - Support for Parents and Young Children ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Gynaecology Pathway Page ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Heavy Menstrual Bleeding ICCG
+(Total Links: 12, Bad Links: 8)
+    Node #9. 1st Line - Intra-uterine system (IUS) (Mirena)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/732-progestogen-only-contraceptives/7323-intra-uterine-progestogen-only-device/intra-uterine-progestogen-only-system/mirena?q=Mirena®
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/732-progestogen-only-contraceptives/7323-intra-uterine-progestogen-only-device/intra-uterine-progestogen-only-system/mirena?q=Mirena®: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #12. Tranexamic acid / NSAIDs
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/2-cardiovascular-system/211-antifibrinolytic-drugs-and-haemostatics/tranexamic-acid?q=TRANEXAMIC ACID
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/2-cardiovascular-system/211-antifibrinolytic-drugs-and-haemostatics/tranexamic-acid?q=TRANEXAMIC ACID: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #10. 2nd Line - COC, Tranexamic acid, Mefenamic acid
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #10. 2nd Line - COC, Tranexamic acid, Mefenamic acid
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/2-cardiovascular-system/211-antifibrinolytic-drugs-and-haemostatics/tranexamic-acid?q=TRANEXAMIC ACID
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/2-cardiovascular-system/211-antifibrinolytic-drugs-and-haemostatics/tranexamic-acid?q=TRANEXAMIC ACID: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #10. 2nd Line - COC, Tranexamic acid, Mefenamic acid
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/mefenamic-acid?q=MEFENAMIC ACID
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/mefenamic-acid?q=MEFENAMIC ACID: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #15. Mefenamic acid or Naproxen 1st line if dysmenorrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/mefenamic-acid?q=MEFENAMIC ACID
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/mefenamic-acid?q=MEFENAMIC ACID: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #15. Mefenamic acid or Naproxen 1st line if dysmenorrhoea
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/naproxen?q=NAPROXEN
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/10-musculoskeletal-and-joint-diseases/101-drugs-used-in-rheumatic-diseases-and-gout/1011-non-steroidal-anti-inflammatory-drugs/naproxen?q=NAPROXEN: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #14. 3rd Line - Oral progesterone.
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/6-endocrine-system/64-sex-hormones/641-female-sex-hormones-and-their-modulators/6412-progestogens-and-progesterone-receptor-modulators/norethisterone?q=NORETHISTERONE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/6-endocrine-system/64-sex-hormones/641-female-sex-hormones-and-their-modulators/6412-progestogens-and-progesterone-receptor-modulators/norethisterone?q=NORETHISTERONE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Hepatitis B Testing and Vaccination ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Integrated Community Ageing Team ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Intermediate Care ICCG
+(Total Links: 4, Bad Links: 0)
+-------------------------
+Pway: Interpreting Services ICCG
+(Total Links: 3, Bad Links: 2)
+    Node #1. Sign Language Interpreting Service
+     Link: http://www.islington.gov.uk/about/help/accessibility/deaf/sign-language-interpreting-service/Pages/default.aspx
+     Status: 500 Server ErrorMessage
+    Node #14. Face-to-Face Interpreting
+     Link: http://localise.mapofmedicine.com/mom/preview/page.html
+     Status: 404 Not Found
+-------------------------
+Pway: Islington Homepage ICCG
+(Total Links: 2, Bad Links: 0)
+-------------------------
+Pway: Islington Infertility Policy ICCG
+(Total Links: 17, Bad Links: 0)
+-------------------------
+Pway: Isolated Raised GGT ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Learning Disabilities ICCG
+(Total Links: 32, Bad Links: 0)
+-------------------------
+Pway: Locality Navigators ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Locally Commissioned Direct Access Mental Health Services in the Voluntary Sector ICCG
+(Total Links: 23, Bad Links: 0)
+-------------------------
+Pway: Locally Commissioned Services ICCG
+(Total Links: 4, Bad Links: 0)
+-------------------------
+Pway: London Ambulance Service ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Low Vision Centre (LVC) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Lower Respiratory Tract Infections ICCG
+(Total Links: 31, Bad Links: 27)
+    Node #36. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #36. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #36. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #36. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #36. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #37. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #38. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/respiratory-system: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Management of Hep B sAg Positive ICCG
+(Total Links: 3, Bad Links: 3)
+    Node #6. Secondary Care Treatment for Hepatitis B
+     Link: http://www.nice.org.uk/nicemedia/live/12046/41667/41667.pdf
+     Status: 404 Not Found
+    Node #6. Secondary Care Treatment for Hepatitis B
+     Link: http://www.nice.org.uk/nicemedia/live/12184/44890/44890.pdf
+     Status: 404 Not Found
+    Node #6. Secondary Care Treatment for Hepatitis B
+     Link: http://www.nice.org.uk/nicemedia/live/13180/50854/50854.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Management of Hep C RNA Positive ICCG
+(Total Links: 4, Bad Links: 4)
+    Node #23. Secondary Care Treatment for Hepatitis C
+     Link: http://www.nice.org.uk/nicemedia/live/13180/50854/50854.pdf
+     Status: 404 Not Found
+    Node #23. Secondary Care Treatment for Hepatitis C
+     Link: http://www.nice.org.uk/nicemedia/live/13180/50854/50854.pdf
+     Status: 404 Not Found
+    Node #23. Secondary Care Treatment for Hepatitis C
+     Link: http://www.nice.org.uk/nicemedia/live/13717/58912/58912.pdf
+     Status: 404 Not Found
+    Node #23. Secondary Care Treatment for Hepatitis C
+     Link: http://www.nice.org.uk/nicemedia/live/13718/58913/58913.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Management of Infections ICCG
+(Total Links: 4, Bad Links: 1)
+    Node #22. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Management of Patients with Abnormal LFTs ICCG
+(Total Links: 2, Bad Links: 0)
+-------------------------
+Pway: Management of Type 2 Diabetes - Glycaemic Control ICCG
+(Total Links: 89, Bad Links: 1)
+    Node #78. Substitute or add Insulin
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/6-endocrine-system/61-drugs-used-in-diabetes/611-insulins
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/6-endocrine-system/61-drugs-used-in-diabetes/611-insulins: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Management of undernourished Adults (MUST score 2+) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Medication of Overactive Bladder/Urinary Incontinence ICCG
+(Total Links: 9, Bad Links: 0)
+-------------------------
+Pway: Medicines Management Page ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Medicines Optimisation Scheme 2015-16 ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Medicines Optimisation Scheme 2016-17 ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Meningitis ICCG
+(Total Links: 9, Bad Links: 7)
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/benzylpenicillin-sodium
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/benzylpenicillin-sodium: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/benzylpenicillin-sodium
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/benzylpenicillin-sodium: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefotaxime
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefotaxime: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefotaxime
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefotaxime: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/central-nervous-system
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/central-nervous-system: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #13. Suspected Meningococcal Disease RED FLAG!
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/central-nervous-system
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/central-nervous-system: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #15. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Mental Health Rehabilitation & Recovery Community Matron Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: MSK Physiotherapy ICCG
+(Total Links: 20, Bad Links: 0)
+-------------------------
+Pway: NCL Joint Formulary Committee ICCG
+(Total Links: 12, Bad Links: 1)
+    Node #6. Islington CCG Formulary Statement
+     Link: http://www.candi.nhs.uk/about-mental-health/medication/
+     Status: 404 Not Found
+-------------------------
+Pway: Neuropathic pain
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: NHS Health Checks ICCG
+(Total Links: 15, Bad Links: 4)
+    Node #6. Invitation
+     Link: http://www.healthcheck.nhs.uk/commissioners_and_healthcare_professionals/marketing_and_branding/invitation_letter/
+     Status: 404 Not Found
+    Node #6. Invitation
+     Link: http://www.healthcheck.nhs.uk/commissioners_and_healthcare_professionals/marketing_and_branding/information_leaflets/
+     Status: 404 Not Found
+    Node #8. Diabetes diagnosed
+     Link: http://www.nice.org.uk/guidance/cg87/chapter/guidance
+     Status: 404 Not Found
+    Node #7. Dementia awareness
+     Link: http://www.healthcheck.nhs.uk/news/nhs_health_check_dementia_resources_now_available/
+     Status: 404 Not Found
+-------------------------
+Pway: North Islington District Nurses ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Nutrition Screening Using 'MUST' ICCG
+(Total Links: 2, Bad Links: 0)
+-------------------------
+Pway: Nutrition Services and Pathways ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Oligo/amenorrhoea (secondary) ICCG
+(Total Links: 4, Bad Links: 2)
+    Node #52. Consider COC and normalise weight. Consider Pelvic USS if previously equivocal
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives/combined-hormonal-contraceptives
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives/combined-hormonal-contraceptives: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #50. Combined Oral Contraceptive (COC)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives/combined-hormonal-contraceptives
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/73-contraceptives/731-combined-hormonal-contraceptives/combined-hormonal-contraceptives: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Opportunistic Hepatitis B and C Testing Pathway ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Oral antidiabetic agents ICCG
+(Total Links: 75, Bad Links: 2)
+    Node #20. Cautions and contraindications
+     Link: http://www.mhra.gov.uk/Safetyinformation/Generalsafetyinformationandadvice/Product-specificinformationandadvice/Product-specificinformationandadvice-G-L/glitazonesfordiabetes/index.htm
+     Status: 410 Gone
+    Node #18. Cautions and contraindications
+     Link: http://www.mhra.gov.uk/NewsCentre/CON286853
+     Status: 404 Not Found
+-------------------------
+Pway: Oxygen Prescribing ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Paediatric Community Services ICCG
+(Total Links: 29, Bad Links: 13)
+    Node #24. North Central London Newborn Hearing Screening Programme (NHSP)
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=mWrg7p4apdw
+     Status: 404 Not Found
+    Node #22. Early Years Development Team
+     Link: http://www.islington.gov.uk/services/social-care-health/disabled-people/local-offer/education/under-5s/Pages/children-communication-needs.aspx
+     Status: 500 Server ErrorMessage
+    Node #6. General Community Children's Nursing Team
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=pPhVkGSI1ac
+     Status: 404 Not Found
+    Node #11. Health Visiting
+     Link: http://www.islington.gov.uk/publicrecords/library/Children-and-families-services/Information/Leaflets/2013-2014/(2013-08-09)-Islington-Children's-Centres-Leaflet.pdf
+     Status: 404 Not Found
+    Node #11. Health Visiting
+     Link: http://localise.mapofmedicine.com/mom/preview/page.html
+     Status: 404 Not Found
+    Node #11. Health Visiting
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=zh26LakcS6w
+     Status: 404 Not Found
+    Node #14. Children's Complex & Continuing Care
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=pPhVkGSI1ac
+     Status: 404 Not Found
+    Node #28. Community Nutrition and Dietetics Service
+     Link: http://localise.mapofmedicine.com/mom/preview/page.html
+     Status: 404 Not Found
+    Node #28. Community Nutrition and Dietetics Service
+     Link: http://localise.mapofmedicine.com/mom/preview/page.html
+     Status: 404 Not Found
+    Node #12. School Nursing
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=kNBrnxZwY-w
+     Status: 404 Not Found
+    Node #51. Sexual Health Services for <25 years of age
+     Link: http://www.izzy-info.com/kb5/islington/enterprise/service.page?id=KejuJPKIEaU&youthchannel=2
+     Status: 404 Not Found
+    Node #48. Drug & Alcohol Services
+     Link: http://www.islington.gov.uk/publicrecords/library/Community-safety-and-emergencies/Information/Leaflets/2012-2013/(2012-12-07)-IYPDAS-Leaflet-Dec11.pdf
+     Status: 404 Not Found
+    Node #48. Drug & Alcohol Services
+     Link: http://www.islington.gov.uk/publicrecords/library/Community-safety-and-emergencies/Information/Forms/2012-2013/(2012-12-07)-IYPDAS-Screening-Referral-Form.doc1.doc
+     Status: 404 Not Found
+-------------------------
+Pway: Parasitic Infections ICCG
+(Total Links: 12, Bad Links: 8)
+    Node #4. Threadworms
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #4. Threadworms
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #4. Threadworms
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/55-anthelmintics/551-drugs-for-threadworms?q=5.5.1 Drugs for threadworms: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #2. Head lice
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/head-lice?q=Head lice
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/head-lice?q=Head lice: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #2. Head lice
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/head-lice?q=Head lice
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/head-lice?q=Head lice: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #3. Scabies
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/scabies?q=Scabies
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/scabies?q=Scabies: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #3. Scabies
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/scabies?q=Scabies
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/13-skin/1310-anti-infective-skin-preparations/13104-parasiticidal-preparations/scabies?q=Scabies: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #9. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Patient and Medicines Safety ICCG
+(Total Links: 8, Bad Links: 0)
+-------------------------
+Pway: Patient Group Directions (PGDs) ICCG
+(Total Links: 2, Bad Links: 0)
+-------------------------
+Pway: Pharmacist Medication Review Services ICCG
+(Total Links: 5, Bad Links: 0)
+-------------------------
+Pway: Phlebotomy Walk In Services ICCG
+(Total Links: 7, Bad Links: 1)
+    Node #54. Walk in Phlebotomy Service at Homerton
+     Link: http://www.homerton.nhs.uk/our-services/phlebotomy-blood-clinic-/
+     Status: 404 Not Found
+-------------------------
+Pway: Podiatry ICCG
+(Total Links: 4, Bad Links: 0)
+-------------------------
+Pway: PoLCE Back Procedures ICCG
+(Total Links: 4, Bad Links: 4)
+    Node #2. Spinal Cord Stimulation (SCS) for Neuropathic Pain
+     Link: http://www.nice.org.uk/guidance/ta159/resources/guidance-spinal-cord-stimulation-for-chronic-pain-of-neuropathic-or-ischaemic-origin-pdf
+     Status: 404 Not Found
+    Node #3. Interlaminar, Transforaminal and Caudal Epidural Injections for Patients with Radicular Pain
+     Link: http://www.nice.org.uk/guidance/cg88/resources/guidance-low-back-pain-pdf
+     Status: 404 Not Found
+    Node #4. Therapeutic Facet Joint Injections
+     Link: http://www.nice.org.uk/guidance/cg88/resources/guidance-low-back-pain-pdf
+     Status: 404 Not Found
+    Node #5. Thermal Radiofrequency Denervation (LUMBAR and CERVICAL FACET JOINTS)
+     Link: http://www.nice.org.uk/guidance/cg88/resources/guidance-low-back-pain-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE Cosmetic Procedures ICCG
+(Total Links: 3, Bad Links: 2)
+    Node #27. Minor Skin Lesions (Treatment of)
+     Link: http://www.nice.org.uk/guidance/cg27/resources/guidance-referral-guidelines-for-suspected-cancer-pdf
+     Status: 404 Not Found
+    Node #31. Breast Asymmetry
+     Link: http://www.nice.org.uk/guidance/ipg417/resources/guidance-breast-reconstruction-using-lipomodelling-after-breast-cancer-treatment-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE Dental Procedures ICCG
+(Total Links: 1, Bad Links: 1)
+    Node #4. Temporo-Mandibular Joint (TMJ) Surgery
+     Link: http://www.nice.org.uk/guidance/ipg500/resources/guidance-total-prosthetic-replacement-of-the-temporomandibular-joint-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE ENT Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Genitourinary Medicine Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Gynaecology Procedures ICCG
+(Total Links: 2, Bad Links: 2)
+    Node #3. Dilatation and Curettage for Heavy Menstrual Bleeding (in women aged under 40 years only)
+     Link: http://www.nice.org.uk/guidance/cg44/resources/guidance-heavy-menstrual-bleeding-pdf
+     Status: 404 Not Found
+    Node #4. Hysterectomy for Heavy Menstrual Bleeding (HMB)
+     Link: http://www.nice.org.uk/guidance/cg44/resources/guidance-heavy-menstrual-bleeding-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE Joint Procedures ICCG
+(Total Links: 4, Bad Links: 4)
+    Node #2. Autologous Chondrocyte Implantation (ACI)
+     Link: http://www.nice.org.uk/guidance/ta89/resources/guidance-the-use-of-autologous-chondrocyte-implantation-for-the-treatment-of-cartilage-defects-in-the-knee-joints-pdf
+     Status: 404 Not Found
+    Node #6. Dupuytrens Contracture (Fasciotomy / Fasciectomy) (Surgical Treatment)
+     Link: http://www.nice.org.uk/ip177overview
+     Status: 404 Not Found
+    Node #6. Dupuytrens Contracture (Fasciotomy / Fasciectomy) (Surgical Treatment)
+     Link: https://www.nice.org.uk/guidance/ipg43/resources/guidance-needle-fasciotomy-for-dupuytrens-contracture-pdf
+     Status: 404 Not Found
+    Node #7. Knee Washout (in patients with knee osteoarthritis)
+     Link: https://www.nice.org.uk/guidance/ipg230/resources/guidance-arthroscopic-knee-washout-with-or-without-debridement-for-the-treatment-of-osteoarthritis-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE Massage, ME/CFS, Skin, Complementary & Alternative Therapies ICCG
+(Total Links: 5, Bad Links: 2)
+    Node #3. Myalgic Encephalopathy / Chronic Fatigue Syndrome (Treatment of)
+     Link: http://www.nice.org.uk/guidance/cg53/resources/guidance-chronic-fatigue-syndromemyalgic-encephalomyelitis-or-encephalopathy-pdf
+     Status: 404 Not Found
+    Node #4. Skin - Hyperhidrosis
+     Link: http://www.nice.org.uk/advice/esuom16/resources/non-guidance-hyperhidrosis-oral-glycopyrronium-bromide-pdf
+     Status: 404 Not Found
+-------------------------
+Pway: PoLCE Procedures of Limited Clinical Effectiveness / Individual Funding Requests (IFR) ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Prescribing drugs for the treatment of erectile dysfunction ICCG
+(Total Links: 7, Bad Links: 2)
+    Node #1. Prescribing drugs for treatment of erectile dysfunction
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/74-drugs-for-genito-urinary-disorders/745-drugs-for-erectile-dysfunction/alprostadil/alprostadil?q=ALPROSTADIL
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/74-drugs-for-genito-urinary-disorders/745-drugs-for-erectile-dysfunction/alprostadil/alprostadil?q=ALPROSTADIL: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #1. Prescribing drugs for treatment of erectile dysfunction
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/74-drugs-for-genito-urinary-disorders/745-drugs-for-erectile-dysfunction/phosphodiesterase-type-5-inhibitors/avanafil?q=AVANAFIL
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/7-obstetrics-gynaecology-and-urinary-tract-disorders/74-drugs-for-genito-urinary-disorders/745-drugs-for-erectile-dysfunction/phosphodiesterase-type-5-inhibitors/avanafil?q=AVANAFIL: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Prescribing Guidelines ICCG
+(Total Links: 14, Bad Links: 3)
+    Node #13. Cardiovascular System
+     Link: http://pathways.nice.org.uk/pa%E2%80%A6
+     Status: 404 Not Found
+    Node #13. Cardiovascular System
+     Link: http://www.nice.org.uk/guidance/cg180/resources/cg180-atrial-fibrillation-update-patient-decision-aid
+     Status: 404 Not Found
+    Node #21. Respiratory System
+     Link: https://www.brit-thoracic.org.uk/guidelines-and-quality-standards/asthma-guideline/
+     Status: Head https://www.brit-thoracic.org.uk/guidelines-and-quality-standards/asthma-guideline/: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Prescribing In Pregnancy ICCG
+(Total Links: 13, Bad Links: 2)
+    Node #1. General Principles of Prescribing in Pregnancy
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/guidance-on-prescribing/prescribing-in-pregnancy
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/guidance-on-prescribing/prescribing-in-pregnancy: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #4. General Principles of Prescribing in Breastfeeding
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/guidance-on-prescribing/prescribing-in-breast-feeding?q=Prescribing in breast-feeding
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/guidance-on-prescribing/prescribing-in-breast-feeding?q=Prescribing in breast-feeding: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Primary Care Mental Health Nurses ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Raised Serum Ferritin ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Red List Medications ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Repeat Dispensing ICCG
+(Total Links: 4, Bad Links: 1)
+    Node #3. Guidance for General Practice
+     Link: http://www.england.nhs.uk/wp-content/uploads/2015/06/electronic-repeat-dispensing-guidance.pdf
+     Status: 404 Not Found
+-------------------------
+Pway: Resources for Carers ICCG
+(Total Links: 33, Bad Links: 0)
+-------------------------
+Pway: Self Management Support ICCG
+(Total Links: 48, Bad Links: 7)
+    Node #30. Primary Care Staff training to promote self-care
+     Link: http://http://behaviour-change-training.eventbrite.com/
+     Status: Head http://http://behaviour-change-training.eventbrite.com/: dial tcp: lookup tcp/: nodename nor servname provided, or not known
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/Pages/get-active.aspx
+     Status: 500 Server ErrorMessage
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/sports/sports-for-all/Pages/Disabled-People.aspx
+     Status: 500 Server ErrorMessage
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/sports/sports-for-all/Pages/Mothers.aspx
+     Status: 500 Server ErrorMessage
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/sports/sports-for-all/Pages/Older-People.aspx
+     Status: 500 Server ErrorMessage
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/sports/sports-for-all/Pages/women_and_girls.aspx
+     Status: 500 Server ErrorMessage
+    Node #54. Local Resources, exercise classes and outdoor gyms
+     Link: http://www.islington.gov.uk/services/leisure-culture-sport/get-active/sports/sports-for-all/Pages/young_people.aspx
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Sexual Health in Primary Care ICCG
+(Total Links: 26, Bad Links: 1)
+    Node #3. Resources & PILS
+     Link: http://www.bashh.org/
+     Status: Head http://www.bashh.org/AsiCommon/Controls/Shared/FormsAuthentication/Login.aspx?ReturnUrl=%2fAsiCommon%2fControls%2fShared%2fFormsAuthentication%2fLogin.aspx%3fReturnUrl%3d%252fAsiCommon%252fControls%252fShared%252fFormsAuthentication%252fLogin.aspx%253fReturnUrl%253d%25252fAsiCommon%25252fControls%25252fShared%25252fFormsAuthentication%25252fLogin.aspx%25253fReturnUrl%25253d%2525252fAsiCommon%2525252fControls%2525252fShared%2525252fFormsAuthentication%2525252fLogin.aspx%2525253fReturnUrl%2525253d%252525252fAsiCommon%252525252fControls%252525252fShared%252525252fFormsAuthentication%252525252fLogin.aspx%252525253fReturnUrl%252525253d%25252525252fAsiCommon%25252525252fControls%25252525252fShared%25252525252fFormsAuthentication%25252525252fLogin.aspx%25252525253fReturnUrl%25252525253d%2525252525252fAsiCommon%2525252525252fControls%2525252525252fShared%2525252525252fFormsAuthentication%2525252525252fLogin.aspx%2525252525253fReturnUrl%2525252525253d%252525252525252fAsiCommon%252525252525252fControls%252525252525252fShared%252525252525252fFormsAuthentication%252525252525252fLogin.aspx%252525252525253fReturnUrl%252525252525253d%25252525252525252fAsiCommon%25252525252525252fControls%25252525252525252fShared%25252525252525252fFormsAuthentication%25252525252525252fLogin.aspx%25252525252525253fReturnUrl%25252525252525253d%2525252525252525252f: stopped after 10 redirects
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Sexual Health Services ICCG
+(Total Links: 34, Bad Links: 5)
+    Node #23. Sexual Assault
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/family_results.page?category=1-6&sortfield=title&sorttype=field&utm_content=google|organic&utm_term=(not provided)
+     Status: 400 Bad Request
+    Node #17. HIV Services
+     Link: http://www.chelwest.nhs.uk/services/hiv-sexual-health/clinics/west-london-centre-for-sexual-health/west-london-centre-for-sexual-health-wlcsh
+     Status: 404 Not Found
+    Node #24. The Havens
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/family_results.page?category=1-6&sortfield=title&sorttype=field&utm_content=google|organic&utm_term=(not provided)
+     Status: 400 Bad Request
+    Node #13. IUC in Primary Care Host Practices
+     Link: http://www.tufnellparksurgery.nhs.uk/contact-finding-us,43896.htm
+     Status: Head http://www.tufnellparksurgery.nhs.uk/contact-finding-us,43896.htm: dial tcp 91.209.37.103:80: i/o timeout
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #43. Sexual Health Services for <25 years of age
+     Link: http://www.izzy-info.com/kb5/islington/enterprise/service.page?id=KejuJPKIEaU&youthchannel=2
+     Status: 404 Not Found
+-------------------------
+Pway: Simple Ovarian Cyst ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Skin/Soft Tissue Infections ICCG
+(Total Links: 37, Bad Links: 2)
+    Node #28. Skin/Soft tissue infections
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #16. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Smoking Cessation Delivery Pathway ICCG
+(Total Links: 13, Bad Links: 0)
+-------------------------
+Pway: Smoking Cessation Services ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: South Islington District Nurses ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Stroke Navigator Service ICCG
+(Total Links: 4, Bad Links: 2)
+    Node #30. SSNAP
+     Link: http://www.strokeaudit.org/results/National-Results-(1).aspx
+     Status: 404 Not Found
+    Node #31. Stroke Association Fact sheets
+     Link: http://shop.stroke.org.uk/all-products/6
+     Status: Head http://shop.stroke.org.uk/all-products/6: EOF
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Substance Misuse ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Suspected DVT Referral Pathways ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Suspected/New Diagnosis of Heart Failure Pathway ICCG
+(Total Links: 1, Bad Links: 0)
+-------------------------
+Pway: Transient Ischaemic Attack (TIA) ICCG
+(Total Links: 11, Bad Links: 1)
+    Node #83. Resources for patients
+     Link: http://https://www.uclh.nhs.uk/OurServices/ServiceA-Z/Neuro/Stroke/Pages/TIAinformationforpatients.aspx
+     Status: Head http://https://www.uclh.nhs.uk/OurServices/ServiceA-Z/Neuro/Stroke/Pages/TIAinformationforpatients.aspx: dial tcp: lookup tcp/: nodename nor servname provided, or not known
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Tuberculosis Service ICCG
+(Total Links: 5, Bad Links: 0)
+-------------------------
+Pway: Upper Respiratory Tract Infections ICCG
+(Total Links: 30, Bad Links: 25)
+    Node #21. Upper respiratory tract infections
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/ear-nose-and-oropharynx
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/table-1-summary-of-antibacterial-therapy/ear-nose-and-oropharynx: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #35. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #35. Notifiable Diseases
+     Link: https://www.hpa.org.uk/Topics/InfectiousDiseases/InfectionsAZ/NotificationsOfInfectiousDiseases/ListOfNotifiableDiseases/
+     Status: Head https://www.hpa.org.uk/Topics/InfectiousDiseases/InfectionsAZ/NotificationsOfInfectiousDiseases/ListOfNotifiableDiseases/: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.hpa.org.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/53-antiviral-drugs/534-influenza/oseltamivir
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/53-antiviral-drugs/534-influenza/oseltamivir: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/53-antiviral-drugs/534-influenza/zanamivir
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/53-antiviral-drugs/534-influenza/zanamivir: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/53-antiviral-drugs/534-influenza/oseltamivir
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/53-antiviral-drugs/534-influenza/oseltamivir: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/53-antiviral-drugs/534-influenza/zanamivir
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/53-antiviral-drugs/534-influenza/zanamivir: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/clarithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment - child doses (read above first)
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/515-macrolides/azithromycin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #31. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/12-ear-nose-and-oropharynx/121-drugs-acting-on-the-ear/1211-otitis-externa
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/12-ear-nose-and-oropharynx/121-drugs-acting-on-the-ear/1211-otitis-externa: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #31. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/12-ear-nose-and-oropharynx/121-drugs-acting-on-the-ear/1211-otitis-externa
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/12-ear-nose-and-oropharynx/121-drugs-acting-on-the-ear/1211-otitis-externa: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline?q=DOXYCYCLINE: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/513-tetracyclines/doxycycline: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5111-benzylpenicillin-and-phenoxymethylpenicillin/phenoxymethylpenicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #32. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Urinary Tract Infections ICCG
+(Total Links: 30, Bad Links: 26)
+    Node #20. Urinary tract infections
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #21. Uncomplicated UTI (ie no fever or flank pain) in both men+ women points to consider before treatment
+     Link: https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402
+     Status: Head https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.mhra.gov.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #16. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #26. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #26. Treatment
+     Link: https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402
+     Status: Head https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.mhra.gov.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #26. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #26. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5115-mecillinams/pivmecillinam-hydrochloride
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5115-mecillinams/pivmecillinam-hydrochloride: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment
+     Link: https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402
+     Status: Head https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.mhra.gov.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #27. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefalexin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefalexin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402
+     Status: Head https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.mhra.gov.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/amoxicillin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefalexin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefalexin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #28. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefixime
+     Status: Head https://www.evidence.nhs.uk/formulary/bnfc/current/5-infections/51-antibacterial-drugs/512-cephalosporins-carbapenems-and-other-beta-lactams/5121-cephalosporins/cefixime: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/511-penicillins/5113-broad-spectrum-penicillins/co-amoxiclav: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin?q=CIPROFLOXACIN
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5112-quinolones/ciprofloxacin?q=CIPROFLOXACIN: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #29. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #30. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/5113-urinary-tract-infections/nitrofurantoin: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #30. Treatment
+     Link: https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402
+     Status: Head https://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON300402: x509: certificate is valid for www.gov.uk, assets.digital.cabinet-office.gov.uk, *.businesslink.gov.uk, *.direct.gov.uk, *.production.alphagov.co.uk, *.preview.alphagov.co.uk, *.publishing.service.gov.uk, gov.uk, not www.mhra.gov.uk
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #30. Treatment
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: UTI in Adult Female ICCG
+(Total Links: 25, Bad Links: 2)
+    Node #16. UTI in females, clinical presentation
+     Link: http://www.cks.nhs.uk/urinary_tract_infection_lower_women/management/quick_answers/scenario_lower_uti_with_catheter
+     Status: Head http://www.cks.nhs.uk/urinary_tract_infection_lower_women/management/quick_answers/scenario_lower_uti_with_catheter: dial tcp 94.236.23.151:80: i/o timeout
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+    Node #8. Suspected Upper Urinary Tract Infection
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections/51-antibacterial-drugs/518-sulfonamides-and-trimethoprim/trimethoprim: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Viral Infections ICCG
+(Total Links: 8, Bad Links: 1)
+    Node #12. Notifiable Diseases
+     Link: https://www.evidence.nhs.uk/formulary/bnf/current/5-infections
+     Status: Head https://www.evidence.nhs.uk/formulary/bnf/current/5-infections: x509: certificate signed by unknown authority
+Invalid URL - Editor or Crawler error - Check Link/Crawler
+-------------------------
+Pway: Vitamin D Deficiency in Adults ICCG
+(Total Links: 3, Bad Links: 1)
+    Node #46. Healthy Start Vitamins Scheme
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=4xFxWh6bs1k
+     Status: 404 Not Found
+-------------------------
+Pway: Vitamin D Deficiency in Children ICCG
+(Total Links: 2, Bad Links: 1)
+    Node #75. Healthy Start Vitamins Scheme
+     Link: http://directory.islington.gov.uk/kb5/islington/directory/service.page?record=4xFxWh6bs1k
+     Status: 404 Not Found
+-------------------------
+Pway: Weight Management (4-17) With Co-morbidity or Complex Needs - ICCG
+(Total Links: 8, Bad Links: 1)
+    Node #23. MAINTENANCE
+     Link: http://www.islington.gov.uk/services/children-families/cs-things-to-do/Pages/default.aspx
+     Status: 500 Server ErrorMessage
+-------------------------
+Pway: Wound Management Products ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Year of Care ICCG
+(Total Links: 4, Bad Links: 2)
+    Node #22. What Practices Need to Think About
+     Link: http://linksforliving.islington.gov.uk/kb5/islington/asch/home.page
+     Status: 404 Not Found
+    Node #22. What Practices Need to Think About
+     Link: http://linksforliving.islington.gov.uk/kb5/islington/asch/home.page
+     Status: 404 Not Found
+-------------------------
+Pway: Zika Virus ICCG
+(Total Links: 10, Bad Links: 0)
+-------------------------

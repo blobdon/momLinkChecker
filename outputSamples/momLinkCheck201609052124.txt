@@ -1,0 +1,425 @@
+ICCG MoM Bad Links Log - Mon Sep 5, 2016 at 21:24
+Total links found and checked: 6
+Total bad links: 1
+Percent bad links: %17
+=========================
+Pway: A-Z of Local Pathways ICCG
+(Total Links: 3, Bad Links: 1)
+	Node 161 Useful Secondary Care Contacts for GPs
+		https://nww.whittington.nhs.uk/default.asp?c=789
+		StatusCode: 0 Status: Head https://nww.whittington.nhs.uk/default.asp?c=789: dial tcp: lookup nww.whittington.nhs.uk: no such host
+-------------------------
+Pway: Acute Asthma Attack - Management for Known Asthmatic Children (5-18 years old) ICCG
+(Total Links: 3, Bad Links: 0)
+-------------------------
+Pway: Acute Wheezy Episode - Management for Children (2-5 years old) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Adult Community Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Adult Safeguarding Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Adult Sepsis Screening Tool ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Adult Weight Management Pathway With Co-Morbidity ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Adult Weight Management Pathway Without Co-morbidity ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: AECOPD Referral Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Alcohol Screening and Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Allergies in Children Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Ambulatory Care Pathway - UCLH ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Ambulatory Care Pathway - Whittington Health ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Ambulatory Care Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Antenatal and Postnatal Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Cancer Referrals ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Central Islington District Nurses Team ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Child Protection Referral Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Child Weight Management
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Children with suspected epilepsy ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Children's Nurses in Primary Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Childrens Centres ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Chronic obstructive pulmonary disease (COPD)
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Chronic Pelvic Pain (over 6 months) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Clinical Leads ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Community Mental Health Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Community Pharmacy ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Constipation in children and young people ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Coordinate My Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: COPD Management ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: COPD Service Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Dental Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Diabetes Service Page ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Diagnosing COPD ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: District Nurse Twilight and Night Teams ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: District Nursing Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Do Not Attempt CPR (DNACPR) Decisions ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Domestic Violence and Abuse ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Drug Supply Issues ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Drugs Misuse ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Ebola Virus Disease ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Electronic Prescription Service (EPS) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Emergency Contraception ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Employment Support and Welfare Rights ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Eye Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Fatty Liver ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Female Urinary Incontinence ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Gastro-intestinal Tract Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Gastroesophageal reflux (GOR) in infants up to 6 months ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Genital Tract Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Governing Body ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Growing Together - Support for Parents and Young Children ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Gynaecology Pathway Page ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Heavy Menstrual Bleeding ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Hepatitis B Testing and Vaccination ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Integrated Community Ageing Team ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Intermediate Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Interpreting Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Islington Homepage ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Islington Infertility Policy ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Isolated Raised GGT ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Learning Disabilities ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Locality Navigators ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Locally Commissioned Direct Access Mental Health Services in the Voluntary Sector ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Locally Commissioned Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: London Ambulance Service ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Low Vision Centre (LVC) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Lower Respiratory Tract Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of Hep B sAg Positive ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of Hep C RNA Positive ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of Patients with Abnormal LFTs ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of Type 2 Diabetes - Glycaemic Control ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Management of undernourished Adults (MUST score 2+) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Medication of Overactive Bladder/Urinary Incontinence ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Medicines Management Page ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Medicines Optimisation Scheme 2015-16 ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Medicines Optimisation Scheme 2016-17 ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Meningitis ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Mental Health Rehabilitation & Recovery Community Matron Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: MSK Physiotherapy ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: NCL Joint Formulary Committee ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Neuropathic pain
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: NHS Health Checks ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: North Islington District Nurses ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Nutrition Screening Using 'MUST' ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Nutrition Services and Pathways ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Oligo/amenorrhoea (secondary) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Opportunistic Hepatitis B and C Testing Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Oral antidiabetic agents ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Oxygen Prescribing ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Paediatric Community Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Parasitic Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Patient and Medicines Safety ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Patient Group Directions (PGDs) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Pharmacist Medication Review Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Phlebotomy Walk In Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Podiatry ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Back Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Cosmetic Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Dental Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE ENT Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Genitourinary Medicine Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Gynaecology Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Joint Procedures ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Massage, ME/CFS, Skin, Complementary & Alternative Therapies ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: PoLCE Procedures of Limited Clinical Effectiveness / Individual Funding Requests (IFR) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Prescribing drugs for the treatment of erectile dysfunction ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Prescribing Guidelines ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Prescribing In Pregnancy ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Primary Care Mental Health Nurses ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Raised Serum Ferritin ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Red List Medications ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Repeat Dispensing ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Resources for Carers ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Self Management Support ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Sexual Health in Primary Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Sexual Health Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Simple Ovarian Cyst ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Skin/Soft Tissue Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Smoking Cessation Delivery Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Smoking Cessation Services ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: South Islington District Nurses ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Stroke Navigator Service ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Substance Misuse ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Suspected DVT Referral Pathways ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Suspected/New Diagnosis of Heart Failure Pathway ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Transient Ischaemic Attack (TIA) ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Tuberculosis Service ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Upper Respiratory Tract Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Urinary Tract Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: UTI in Adult Female ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Viral Infections ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Vitamin D Deficiency in Adults ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Vitamin D Deficiency in Children ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Weight Management (4-17) With Co-morbidity or Complex Needs - ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Wound Management Products ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Year of Care ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
+Pway: Zika Virus ICCG
+(Total Links: 0, Bad Links: 0)
+-------------------------
